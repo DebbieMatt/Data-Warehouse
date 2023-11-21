@@ -20,7 +20,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `Python 3.9 ou superior`, assim como, o banco de dados sugerido: <a href= "https://www.postgresql.org/" > PostgreSQL </a>
   
+- Foi utilizado a `IDE`: do `VScode` para execução e conexão[^1] ao SGBD PostgreSQL, mas o `Jupiter Notebook`, ou qualquer outro serve.
+  
 - Você ter uma máquina `Windows / Linux / Mac`.
+
+[^1]: A conexão presente neste código, via `psycopg2` foi gerado através de uma maquina virtual `Ubuntu`, logo deverá ser trocado os dados pelo o seu `localhost`.
 
 ## 🚀 Instalando o Data Warehouse
 
@@ -44,7 +48,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 🤝 Criador
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Apresento o(s) (co)criadores deste projeto:
 
 <table>
   <tr>
