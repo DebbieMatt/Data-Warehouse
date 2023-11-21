@@ -24,7 +24,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
   
 - Você ter uma máquina `Windows / Linux / Mac`.
 
-[^1]: A conexão presente neste código, via `psycopg2` foi gerado através de uma maquina virtual `Ubuntu`, logo deverá ser trocado os dados pelo o seu `localhost`.
+[^1]: A conexão presente neste código, via `psycopg2` foi gerado através de uma maquina virtual `Ubuntu`, logo deverá ser trocado os dados, pelo o seu `localhost`.
 
 ## 🚀 Instalando o Data Warehouse
 
